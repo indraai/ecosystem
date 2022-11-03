@@ -151,7 +151,9 @@ The Evolution Engine Agent Ecosystem also known as <span class="hash">#TEEAMS</s
 
 [Original Source](https://bit.ly/3FHkNUG)  
 [Evil.eu Source](https://bit.ly/3T6SLEW)
+
 ---
+
 [Github Repo](https://github.com/indraai/protocols)
 [Back to indra.ai](https://indra.ai)  
 &copy;2022 Quinn Michaels; All Rights Reserved.
