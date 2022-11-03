@@ -147,7 +147,9 @@ The Evolution Engine Agent Ecosystem also known as <span class="hash">#TEEAMS</s
 
 - Evolution Engine Agent – At the core of the Architecture is the Evolution Engine Agent.
 
+---
 
-[Github Repo](https://github.com/indraai/protocols)  
+[Original Source](https://bit.ly/3FHkNUG)  
+[Github Repo](https://github.com/indraai/protocols)
 [Back to indra.ai](https://indra.ai)  
 &copy;2022 Quinn Michaels; All Rights Reserved.
