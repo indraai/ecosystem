@@ -50,6 +50,7 @@ It is tempting with the classic Autonomic Computing Model to introduce top down 
 
 
 ## Multi Agent Systems and Emergent Intelligence.
+
 In a Multi-Agent System the agents interact with each other to accomplish one or more goals in competition, in collaboration or as individuals. The interactions can take a number of forms ranging from simple dynamical interactions that can result in Agent Flocking behavior through to localized negotiations of vested interests between two or more Agents and their resources.
 
 The global behavior of such a system consisting of many agents emerges from the interactions among those agents and isn’t always obvious from the agents’ individual behaviors. Such global behavior is known as Emergent Behavior. Examples of such behavior are common in Nature and include Flocking and Foraging. Such behaviors have been optimized through Natural Selection because of their benefits. For instance when food is approximately evenly dispersed in an environment, solitary foraging yields a higher energy return rate, where as when food is clumped flock foraging is more efficient.
